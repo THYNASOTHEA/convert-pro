@@ -6,7 +6,7 @@
               About <span>Us</span>
             </h2>
             <p>
-              Magni quod blanditiis non minus sed aut voluptatum illum quisquam aspernatur ullam vel beatae rerum ipsum voluptatibus. niceeeee sirrr
+              Hello no sleep, niceeeee sirrr
             </p>
           </div>
           <div class="row">
